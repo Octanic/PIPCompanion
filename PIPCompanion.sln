@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIPCompanion.UI", "PIPCompanion.UI\PIPCompanion.UI.csproj", "{EA540B5B-C30F-4541-A5B3-8A03AD0ADE67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIPCompanion.Integrations", "PIPCompanion.Integrations\PIPCompanion.Integrations.csproj", "{CDFE8515-801A-41F4-93D0-5C722ACEEA31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA540B5B-C30F-4541-A5B3-8A03AD0ADE67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA540B5B-C30F-4541-A5B3-8A03AD0ADE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA540B5B-C30F-4541-A5B3-8A03AD0ADE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA540B5B-C30F-4541-A5B3-8A03AD0ADE67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDFE8515-801A-41F4-93D0-5C722ACEEA31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDFE8515-801A-41F4-93D0-5C722ACEEA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDFE8515-801A-41F4-93D0-5C722ACEEA31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDFE8515-801A-41F4-93D0-5C722ACEEA31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A862D27-6F56-46E7-A9C5-7D7E8959FC0C}
+	EndGlobalSection
+EndGlobal
